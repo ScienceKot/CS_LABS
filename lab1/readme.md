@@ -16,7 +16,7 @@ Our desktop application must be able to:
 * Save the same set of policies under a different name within a structured form (ex:database).
 
 ### Video
-https://user-images.githubusercontent.com/56044286/134326792-7c05a741-33dc-43e2-9679-a7349e4e26e6.mp4
+https://github.com/ScienceKot/CS_LABS/blob/main/lab1/cs-lab1-recording.mp4
 
 ### Technologies
 In this laboratory work I have used Python as a programming language and its standard GUI (Graphical User Interface) package *Tkinter*. As integrated development environment (IDE) I used Visual Studio Code.
